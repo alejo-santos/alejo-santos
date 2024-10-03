@@ -30,7 +30,7 @@ Hello, I'm Alejo Santos, a dedicated Data Scientist with over three years of exp
 - 🤍 From Puerto Rico and fluent in Spanish.
 - 💞 Enjoy exploring data sets to polish my skills in my free time.
 - 🤝 Open to collaborating on Creating Models and Exploratory Data Analysis (EDA) projects or anything related to Python.
-- 📫 Reach me via email at jouna227@gmail.com or alejosantos224@gmail.com.
+- 📫 Reach me via email at jouna227@gmail.com or alejo.santos@live.com
 - 💬 Connect with me on Discord (@JaySantosPR) or find me on Instagram (@JaySantosPR).
 - ⚡ Fun fact: I have a soft spot for time travel and math, especially Calculus! 🧠
 
