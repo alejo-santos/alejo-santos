@@ -36,7 +36,7 @@ Hello, I'm Alejo Santos, a dedicated Data Scientist with over three years of exp
 
 ## Contact Information
 
-<img src="linkedIn_logo.png" height="30">
+<img src="linkedIn_logo.png" height="30">(https://www.linkedin.com/in/alejo-santos/)
 
 ### Email: alejo.santos@live.com | jouna227@gmail.com
 ### Phone: +1 (321) 440-0435
