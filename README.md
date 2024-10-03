@@ -1,30 +1,42 @@
-# Hi there, I'm Javier and Welcome to my profile!    
+# Welcome to My Profile!
 
-## Intro
+## Introduction
 
-I am a Data Scientist with two years of experience using Python and SQL. I have a track record of using analytical skills to drive data-driven decision making across 17 projects involving statistical analysis and machine learning algorithms. I completed the professional training certificate program in Data Science through Practicum and am now seeking a new opportunity to leverage my experience and enhance analytical processes.
+Hello, I'm Alejo Santos, a dedicated Data Scientist with over three years of experience. I have successfully delivered more than 15 technical projects, utilizing Python, SQL, and machine learning to extract valuable insights from extensive datasets. My expertise lies in data visualization and storytelling, enabling the creation of impactful, data-driven solutions. I am an adaptable learner with hands-on experience in production-level data processing and data engineering.
 
-## Skilled using the following skills/libraries: 
-- Python (Pandas, NumPy, SciPy)
-- Visualization (Matplotlib, seaborn)
-- Parsing Data (BeautifulSoup, re, requests)
-- Machine Learning Hyperparameter Tuning (Sklearn, random/gridSearchCV)
-- Time Series Analysis (seasonal_decompose, TimeSeriesSplit, DateTime)
-- Natural Language Processing (spaCy, NLTK, PyTorch, TfidfVectorizer)
-- Unsupervised machine learning (K-Means, IsolationForest)
-- Computer Vision (TensorFlow, Keras)
-- PostgreSQL
-- Audio Feature extraction using Librosa
+## Technical Proficiencies
 
-I am also experienced, with two years, in developing dietary calculators, using Excel, for epileptic patients in the Precision Ketogenic Program at the University of Florida. I am eager to apply my previous experiences to improve and optimize analytical processes and data-driven decisions.
+- **Programming Languages:** Python (Pandas, NumPy, SciPy)
+- **Data Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Hyperparameter Tuning (Sklearn, Random/GridSearchCV)
+- **Time Series Analysis:** Seasonal Decompose, TimeSeriesSplit, DateTime
+- **Natural Language Processing:** spaCy, NLTK, PyTorch, TfidfVectorizer
+- **Unsupervised Machine Learning:** K-Means, IsolationForest
+- **Computer Vision:** TensorFlow, Keras
+- **Databases:** SQL
 
-## Languages and tools: 
+## Tools and Technologies
 
-<img src="python_logo.png" height = 30> <img src="jupyter_logo.png" height = 30><img src="postgre_logo.png" height = 30> <img src="numpy_logo.png" height = 30> <img src="matplot_logo.png" height = 30> <img src="Pandas_logo.png" height = 30> <img src="scipy_logo.pgn.png" height = 30> <img src="scikit_logo.png" height = 30> <img src="beutiful_soup_logo.png" height = 30> <img src="keras.png" height = 35> <img src="seaborn_logo.png" height = 30> <img src="light_gbm_logo.png" height = 30> <img src="tensorflow_logo.png" height = 50>
+<img src="python_logo.png" height="30"> <img src="jupyter_logo.png" height="30"> <img src="postgre_logo.png" height="30"> <img src="numpy_logo.png" height="30"> <img src="matplot_logo.png" height="30"> <img src="Pandas_logo.png" height="30"> <img src="scipy_logo.png" height="30"> <img src="scikit_logo.png" height="30"> <img src="beautiful_soup_logo.png" height="30"> <img src="keras.png" height="35"> <img src="seaborn_logo.png" height="30"> <img src="light_gbm_logo.png" height="30"> <img src="tensorflow_logo.png" height="50">
 
+## A bit about myself. 🌟
 
-## Contact Information and Social Networks: 
-[<img src="linkedIn_logo.png" height = 30>](https://www.linkedin.com/in/jmorenoflores/)
+- 👨‍👩‍👧‍👦 Proud husband and father of two wonderful kids.
+- ✝️ Leader at my church.
+- 🎮 Enjoy playing video games and spending time with my kids.
+- 🌱 Recently graduated from the Data Science.
+- 💻 Passionate about Machine Learning, Python, SciKit, Pandas, Matplotlib, and Seaborn.
+- 📊 Love exploring data and uncovering the hidden stories within it.
+- 🤍 From Puerto Rico and fluent in Spanish.
+- 💞 Enjoy exploring data sets to polish my skills in my free time.
+- 🤝 Open to collaborating on Creating Models and Exploratory Data Analysis (EDA) projects or anything related to Python.
+- 📫 Reach me via email at jouna227@gmail.com or alejosantos224@gmail.com.
+- 💬 Connect with me on Discord (@JaySantosPR) or find me on Instagram (@JaySantosPR).
+- ⚡ Fun fact: I have a soft spot for time travel and math, especially Calculus! 🧠
 
-### Email: javier.morenof@outlook.com
-### Phone: +1 (239)218-6394
+## Contact Information
+
+<img src="linkedIn_logo.png" height="30">
+
+### Email: alejo.santos@live.com | jouna227@gmail.com
+### Phone: +1 (321) 440-0435
