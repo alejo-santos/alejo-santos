@@ -23,6 +23,7 @@ Hello, I'm Alejo Santos, a dedicated Data Scientist with over three years of exp
 
 - 👨‍👩‍👧‍👦 Proud husband and father of two wonderful kids.
 - ✝️ Leader at my church.
+- 🎹 Passionate about music; I play the piano and guitar, and love creating tracks on FL Studio.
 - 🎮 Enjoy playing video games and spending time with my kids.
 - 🌱 Recently graduated from the Data Science.
 - 💻 Passionate about Machine Learning, Python, SciKit, Pandas, Matplotlib, and Seaborn.
