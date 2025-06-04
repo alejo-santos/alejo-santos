@@ -21,18 +21,17 @@ Hello, I'm Alejo Santos, a dedicated Data Scientist with over three years of exp
 
 ## A bit about myself. 🌟
 
-- 👨‍👩‍👧‍👦 Proud husband and father of two wonderful kids.
 - ✝️ Leader at my church.
 - 🎹 Passionate about music; I play the piano and guitar, and love creating tracks on FL Studio.
-- 🎮 Enjoy playing video games and spending time with my kids.
+- 🎮 Enjoy playing video games.
 - 🌱 Recently graduated from the Data Science.
 - 💻 Passionate about Machine Learning, Python, SciKit, Pandas, Matplotlib, and Seaborn.
 - 📊 Love exploring data and uncovering the hidden stories within it.
 - 🤍 From Puerto Rico and fluent in Spanish.
 - 💞 Enjoy exploring data sets to polish my skills in my free time.
 - 🤝 Open to collaborating on Creating Models and Exploratory Data Analysis (EDA) projects or anything related to Python.
-- 📫 Reach me via email at alejo.santos@live.com
-- 💬 Connect with me on Discord (@JaySantosPR) or find me on Instagram (@JaySantosPR).
+- 📫 Reach me via email at alejo.santos@outlook.com
+- 💬 Connect with me on Discord (@JaySantosPR) or find me on Instagram (@AlejoSantosPR).
 - ⚡ Fun fact: I have a soft spot for time travel and math, especially Calculus! 🧠
 
 ## Contact Information
@@ -40,5 +39,5 @@ Hello, I'm Alejo Santos, a dedicated Data Scientist with over three years of exp
     <img src="linkedIn_logo.png" alt="LinkedIn Profile" height="30">
 </a>
 
-### Email: alejo.santos@live.com
-### Phone: +1(321) 440-0435
+### Email: alejo.santos@outlook.com.com
+### Phone: +1(904) 896-4192
