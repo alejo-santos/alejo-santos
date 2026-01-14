@@ -40,4 +40,4 @@ Hello, I'm Alejo Santos, a dedicated Data Scientist with over three years of exp
 </a>
 
 ### Email: alejo.santos@outlook.com.com
-### Phone: +1(904) 896-4192
+### Phone: +1(540) 246-6415
